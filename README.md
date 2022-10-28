@@ -1,5 +1,7 @@
 # DOTS Pong
 
+Companion of Youtube video https://www.youtube.com/watch?v=a9AUXNFBWt4
+
 This project is a simple creation of the classic Pong game with a DOTS implementation. The focus was on simplicity and using the latest entities syntax (as of 2019.3 beta and Entities 0.3.0-preview.4). Movement and bouncing of the ball is handled with Unity DOTS Physics while inputs, paddle movement, and game logic are handled with systems.
 
 [Click here to visit the forum](https://forum.unity.com/forums/data-oriented-technology-stack.147/)
